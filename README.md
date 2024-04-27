@@ -9,4 +9,4 @@
 
 - Connected to SQL DB
 
-*Note: This project has been done by a team.*
+>Note: This project has been done by a team.
